@@ -12,14 +12,14 @@ sites:
   - name: WebWrite
     url: https://webwrite.pl
 
-assignees:
-  - ssynowiec
+# assignees:
+#   - ssynowiec
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /ExpressEvent-status
+  # baseUrl: /ExpressEvent-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Express Event Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
