@@ -20,7 +20,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo-status.ssynowiec.pl
   # baseUrl: /ExpressEvent-status
-  logoUrl: https://i0.wp.com/express-event.pl/wp-content/uploads/2023/02/Logo.png
+  favicon: https://express-event.pl/wp-content/uploads/2023/03/cropped-ikona-witryny.png
+  logoUrl: https://express-event.pl/wp-content/uploads/2023/07/ee-bez-podpisu.webp
   name: Express Event Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
