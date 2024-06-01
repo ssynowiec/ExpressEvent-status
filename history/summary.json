@@ -4,19 +4,19 @@
     "url": "https://express-event.pl",
     "icon": "https://icons.duckduckgo.com/ip3/express-event.pl.ico",
     "slug": "express-event",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 689,
-    "timeWeek": 1022,
-    "timeMonth": 1089,
-    "timeYear": 1103,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1104,
+    "timeDay": 839,
+    "timeWeek": 1035,
+    "timeMonth": 1091,
+    "timeYear": 1104,
     "dailyMinutesDown": {
-      "2024-06-01": 0
+      "2024-06-01": 17
     }
   },
   {
