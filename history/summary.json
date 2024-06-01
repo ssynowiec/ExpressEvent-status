@@ -4,18 +4,20 @@
     "url": "https://express-event.pl",
     "icon": "https://icons.duckduckgo.com/ip3/express-event.pl.ico",
     "slug": "express-event",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 972,
-    "timeWeek": 1110,
-    "timeMonth": 1111,
-    "timeYear": 1119,
-    "dailyMinutesDown": {}
+    "time": 1103,
+    "timeDay": 689,
+    "timeWeek": 1022,
+    "timeMonth": 1089,
+    "timeYear": 1103,
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "PPV",
