@@ -4,18 +4,19 @@
     "url": "https://express-event.pl",
     "icon": "https://icons.duckduckgo.com/ip3/express-event.pl.ico",
     "slug": "express-event",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1134,
-    "timeDay": 1098,
-    "timeWeek": 1224,
+    "time": 1133,
+    "timeDay": 990,
+    "timeWeek": 1163,
     "timeMonth": 1156,
-    "timeYear": 1134,
+    "timeYear": 1133,
     "dailyMinutesDown": {
+      "2024-08-06": 0,
       "2024-06-01": 17
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 1077,
-    "timeWeek": 1264,
+    "time": 1383,
+    "timeDay": 1158,
+    "timeWeek": 1250,
     "timeMonth": 1376,
-    "timeYear": 1385,
+    "timeYear": 1383,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 526,
-    "timeWeek": 577,
+    "time": 574,
+    "timeDay": 472,
+    "timeWeek": 546,
     "timeMonth": 576,
-    "timeYear": 575,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1084,
-    "timeDay": 934,
-    "timeWeek": 1134,
+    "time": 1083,
+    "timeDay": 950,
+    "timeWeek": 1107,
     "timeMonth": 1087,
-    "timeYear": 1084,
+    "timeYear": 1083,
     "dailyMinutesDown": {}
   }
 ]
